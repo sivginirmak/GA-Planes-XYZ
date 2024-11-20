@@ -36,4 +36,6 @@ model = Nerf(in_features=in_features, hid_features=256, out_features=1) -->
 
 <!-- Project repo for 3D object segmentation with convex MLPs -->
 
-Project repo for 3D object segmentation with convex Nerfs, Triplanes, GAplanes. K-planes and TensorF implemented for comparison
+<!-- Project repo for 3D object segmentation with convex Nerfs, Triplanes, GAplanes. K-planes and TensorF implemented for comparison -->
+
+Here we present 3D object segmentation using (non/semi)convex GA-Planes as well as Tri-Planes. The same task can be achieved by a vanilla Nerf, which we also support in the codebase. Please see run.sh for an example script to select and train any model. 
