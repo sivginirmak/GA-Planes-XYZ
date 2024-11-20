@@ -1,0 +1,8 @@
+*.npy
+*.npz
+*.pyc
+*.pt
+*.png
+*.pth
+
+Results/
